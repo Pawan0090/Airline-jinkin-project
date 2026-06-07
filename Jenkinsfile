@@ -8,5 +8,5 @@ standardDevSecOpsPipeline(
     sonarProjectKey: 'AeroFlight-App',
     sonarServerId: 'SonarQubeServer',
     dockerCredsId: 'docker-hub-credentials'
-    dockerServerIp: 'YOUR_DOCKER_SERVER_PUBLIC_IP'
+    dockerServerIp: '13.127.181.56'
 )
