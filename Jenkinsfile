@@ -1,5 +1,5 @@
-// 1. Import your shared library (configured in Jenkins global settings as 'my-shared-library-Airline')
-@Library('my-shared-library-Airline') _
+// 1. Import your shared library (configured in Jenkins global settings as 'jenkins-shared-library-Airline')
+@Library('jenkins-shared-library-Airline') _
 
 // 2. Call the custom global variable/function defined in your library
 standardDevSecOpsPipeline(
